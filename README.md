@@ -12,6 +12,6 @@ mtrn@mtrn-VirtualBox:~/4231/group-assignment-the-monkey-business-gang/test$ cd l
 
 mtrn@mtrn-VirtualBox:~/4231/group-assignment-the-monkey-business-gang/test/launch$ ros2 launch test_launch.py
 
-Basically, line 339 is a callback function after subscribe the message from the SensorBridge, which will publish a target pose.
+Basically, line 339 is a callback function "messageRead", it'll be ececute after subscribe the message from the SensorBridge, which will publish a target pose.
 
 Then the "simple_test" function will be called.
