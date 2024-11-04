@@ -1,6 +1,6 @@
 The target file is arm_control_test. The detail of the problem I faced can be seen on ed forum.
 
-I want to let the function "exceute_push" work success, which requires a linear path.
+I want to let the function "execeute_push" work success, which requires a linear path.
 
 Please run the setupFakeur5e.sh first.
 
