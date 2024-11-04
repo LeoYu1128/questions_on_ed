@@ -11,3 +11,7 @@ mtrn@mtrn-VirtualBox:~/4231/group-assignment-the-monkey-business-gang/test$ sour
 mtrn@mtrn-VirtualBox:~/4231/group-assignment-the-monkey-business-gang/test$ cd launch
 
 mtrn@mtrn-VirtualBox:~/4231/group-assignment-the-monkey-business-gang/test/launch$ ros2 launch test_launch.py
+
+Basically, line 339 is a callback function after subscribe the message from the SensorBridge, which will publish a target pose.
+
+Then the "simple_test" function will be called.
