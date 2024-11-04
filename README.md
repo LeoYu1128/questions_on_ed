@@ -1,1 +1,6 @@
 The target file is arm_control_test.
+After build and source, please go into launch file and run "ros2 launch test_launch.py".
+
+mtrn@mtrn-VirtualBox:~/4231/group-assignment-the-monkey-business-gang/test$ source install/local_setup.bash
+mtrn@mtrn-VirtualBox:~/4231/group-assignment-the-monkey-business-gang/test$ cd launch
+mtrn@mtrn-VirtualBox:~/4231/group-assignment-the-monkey-business-gang/test/launch$ ros2 launch test_launch.py
